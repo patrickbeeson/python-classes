@@ -1,0 +1,41 @@
+2014-12-12 16:16:16,871 - INFO - start_logging - Starting up the property address program
+2014-12-12 16:16:16,887 - INFO - __init__ - Instantiated an address
+2014-12-12 16:16:16,887 - INFO - __init__ - Instantiated an address
+2014-12-12 16:16:16,887 - ERROR - state - STATE Exception: State not in correct format
+2014-12-12 16:16:16,887 - INFO - __init__ - Instantiated an address
+2014-12-12 16:16:16,887 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 05:36:34,464 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:36:34,470 - INFO - __init__ - Instantiated an address
+2014-12-16 05:36:34,474 - INFO - __init__ - Instantiated an address
+2014-12-16 05:36:34,474 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:36:34,475 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:28,341 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:37:28,345 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:28,347 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:28,348 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:37:28,349 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:28,349 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 05:37:53,127 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:37:53,133 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:53,135 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:53,136 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:37:53,137 - INFO - __init__ - Instantiated an address
+2014-12-16 05:37:53,138 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 05:38:18,505 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:38:18,511 - INFO - __init__ - Instantiated an address
+2014-12-16 05:38:18,514 - INFO - __init__ - Instantiated an address
+2014-12-16 05:38:18,514 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:38:18,515 - INFO - __init__ - Instantiated an address
+2014-12-16 05:38:18,516 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 05:39:08,083 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:39:08,088 - INFO - __init__ - Instantiated an address
+2014-12-16 05:39:08,090 - INFO - __init__ - Instantiated an address
+2014-12-16 05:39:08,090 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:39:08,091 - INFO - __init__ - Instantiated an address
+2014-12-16 05:39:08,092 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 05:43:28,922 - INFO - start_logging - Starting up the property address program
+2014-12-16 05:43:28,927 - INFO - __init__ - Instantiated an address
+2014-12-16 05:43:28,928 - INFO - __init__ - Instantiated an address
+2014-12-16 05:43:28,929 - ERROR - state - STATE Exception: State not in correct format
+2014-12-16 05:43:28,930 - INFO - __init__ - Instantiated an address
+2014-12-16 05:43:28,930 - ERROR - zip_code - ZIP CODE Exception: Zip code not in correct format

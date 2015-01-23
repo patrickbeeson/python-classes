@@ -1,0 +1,8 @@
+2014-12-19 08:44:05,550 - root - INFO - Starting up the quiz program
+2014-12-19 08:44:05,556 - root - INFO - Generated random integers: 4 1
+2014-12-19 08:44:05,557 - root - INFO - Generated random integers: 2 6
+2014-12-19 08:44:05,558 - root - INFO - Generated random integers: 7 7
+2014-12-19 08:44:05,560 - root - INFO - Generated quiz question...
+2014-12-19 08:44:05,560 - root - INFO - Generated random integers: 3 4
+2014-12-19 08:44:05,561 - root - INFO - Generated random integers: 9 1
+2014-12-19 08:44:05,562 - root - INFO - Generated answer 10 using [9, 1].

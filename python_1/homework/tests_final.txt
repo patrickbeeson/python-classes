@@ -1,0 +1,53 @@
+The ``final`` module
+====================
+
+Using ``strip_punc``
+--------------------
+
+This is an example of using the ``strip_punc`` function
+from the ``final`` module:
+
+    >>> from final import strip_punc
+
+Now, we use it:
+
+    >>> strip_punc('Check it out! Any punctuation here? & this?')
+    'Check it out Any punctuation here & this'
+
+Using ``compute_text``
+----------------------
+
+This is an example of using the ``compute_text`` function
+from the ``final`` module:
+
+    >>> from final import compute_text
+
+Now, we use it:
+
+    >>> compute_text('declaration.txt')
+    Length Count
+    1 17
+    2 267
+    3 267
+    4 169
+    5 140
+    6 112
+    7 99
+    8 68
+    9 61
+    10 56
+    11 35
+    12 13
+    13 9
+    14 7
+    15 2
+
+What if the filename is missing or incorrect:
+
+    >>> compute_text('declare')
+    Your file cannot be found.
+    
+What if no file is entered:
+
+    >>> compute_text()
+    You didn't enter a file.

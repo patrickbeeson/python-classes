@@ -1,0 +1,12 @@
+2014-12-16 06:03:51,305 - root - INFO - Starting up the property address program
+2014-12-16 06:03:51,311 - root - INFO - Instantiated an address
+2014-12-16 06:03:51,313 - root - INFO - Instantiated an address
+2014-12-16 06:03:51,314 - root - ERROR - STATE Exception: State not in correct format
+2014-12-16 06:03:51,315 - root - INFO - Instantiated an address
+2014-12-16 06:03:51,316 - root - ERROR - ZIP CODE Exception: Zip code not in correct format
+2014-12-16 15:09:14,233 - root - INFO - Starting up the property address program
+2014-12-16 15:09:14,240 - root - INFO - Instantiated an address
+2014-12-16 15:09:14,241 - root - INFO - Instantiated an address
+2014-12-16 15:09:14,242 - root - ERROR - STATE Exception: State not in correct format
+2014-12-16 15:09:14,243 - root - INFO - Instantiated an address
+2014-12-16 15:09:14,244 - root - ERROR - ZIP CODE Exception: Zip code not in correct format

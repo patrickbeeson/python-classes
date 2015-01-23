@@ -1,0 +1,9 @@
+I answered a question about the argparse module on Stackoverflow.
+
+In my answer, I explained a solution and provided some example code. Also, I followed-up to comments posted for more explanation.
+
+The question: http://stackoverflow.com/q/28031519/357631
+
+My answer: http://stackoverflow.com/a/28031803/357631
+
+I've also been using the excellent Exercism.io website to practice Python and provide input to others (http://exercism.io/nits/patrickbeeson/given).
